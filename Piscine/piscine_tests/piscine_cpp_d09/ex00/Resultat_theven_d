@@ -1,0 +1,47 @@
+Peon Created$
+ZogZog Created$
+$
+Name = [Peon]	Level = [0]	Pv = [100]	Power = [100]	Range = [0]$
+Name = [ZogZog]	Level = [100]	Pv = [100]	Power = [100]	Range = [0]$
+$
+Peon strikes with a wood stick$
+ZogZog takes 15 damage$
+Peon strikes with a wood stick$
+ZogZog takes 15 damage$
+Peon strikes with a wood stick$
+ZogZog takes 15 damage$
+$
+Name = [Peon]	Level = [0]	Pv = [100]	Power = [70]	Range = [0]$
+Name = [ZogZog]	Level = [100]	Pv = [55]	Power = [100]	Range = [0]$
+$
+Peon eats$
+ZogZog takes a potion$
+$
+Name = [Peon]	Level = [0]	Pv = [100]	Power = [100]	Range = [0]$
+Name = [ZogZog]	Level = [100]	Pv = [100]	Power = [100]	Range = [1]$
+$
+ZogZog launches a stone$
+Peon takes 10 damage$
+ZogZog launches a stone$
+Peon takes 10 damage$
+ZogZog launches a stone$
+Peon takes 10 damage$
+ZogZog launches a stone$
+Peon takes 10 damage$
+ZogZog launches a stone$
+Peon takes 10 damage$
+ZogZog launches a stone$
+Peon takes 10 damage$
+ZogZog launches a stone$
+Peon takes 10 damage$
+ZogZog launches a stone$
+Peon takes 10 damage$
+ZogZog launches a stone$
+Peon takes 10 damage$
+ZogZog launches a stone$
+Peon out of combat$
+ZogZog out of power$
+Peon out of combat$
+$
+Name = [Peon]	Level = [0]	Pv = [0]	Power = [100]	Range = [0]$
+Name = [ZogZog]	Level = [100]	Pv = [100]	Power = [0]	Range = [1]$
